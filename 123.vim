@@ -10,7 +10,7 @@ function! RedGem()
 		end
 	end
 	gem = Garnet.new("pretty")
-	EOF
+EOF
 endfunction
 
 function Test3()
